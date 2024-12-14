@@ -45,3 +45,5 @@ class ClientConfig(TypedDict, total=False):
     use_server_timing: bool
     logger_name: str
     extended_data_size: Optional[Union[int, Dict[int, int]]]
+
+

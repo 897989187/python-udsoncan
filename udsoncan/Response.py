@@ -26,7 +26,7 @@ class Response:
             (boolean) True if the response content is valid. Only ``invalid_reason`` is guaranteed to have a meaningful value if this value is False
 
     .. data:: invalid_reason 
-
+    
             (string) String explaining why the response is invalid.
 
     .. data:: service 

@@ -1,0 +1,5 @@
+[
+    "{\"RequestID\":\"0x0\",\"ResponseID\":\"0x1\",\"FrameType\":\"Standard\",\"SendFilled\":null}",
+    "{\"p2_timeout\":\"0\",\"ignore_all_zero_dtc\":\"true\"}",
+    "{\"9\":{\"FuncName\":\"$10\",\"ParmName\":[\"诊断会话类型\"],\"ParmType\":[\"int\"],\"ParmValue\":[\"0x00\"],\"RawRequest\":\"10 00\",\"ExpectedResponse\":\"50 00\"}}"
+]
